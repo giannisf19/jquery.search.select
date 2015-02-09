@@ -1,7 +1,7 @@
 
     (function($){
 
-    	$.fn.tmp = function(searchBox) {
+    	$.fn.selectFilter = function(searchBox) {
     		var self = this;
         	var elements = this.children();
         	var matched = [];
